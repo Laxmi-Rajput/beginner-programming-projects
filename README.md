@@ -1,10 +1,8 @@
-# Beginner-program-
-Collection of beginner programming projects and practice codes.
 # Beginner Programming Projects
 
-This repository contains beginner-friendly programming programs and mini projects.
+A collection of beginner-friendly C programming mini projects.
 
-## Programs Included:
+## Projects Included
 - Student Grade Calculator
 - Number Guessing Game
 - Login System
@@ -13,4 +11,8 @@ This repository contains beginner-friendly programming programs and mini project
 - ATM Simulator
 - Basic Algorithms
 
-More programs will be added regularly
+## Language
+C Programming
+
+## Author
+Laxmi Rajput
